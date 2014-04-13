@@ -1,0 +1,7 @@
+name = "DBIx-Sunny-Tweak"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+[no_index]
+package = ["DBIx::Sunny::db"]
+directory = ["t","xt","inc","share","eg","examples","author","builder"]
+
