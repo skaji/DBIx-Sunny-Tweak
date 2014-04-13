@@ -73,6 +73,12 @@ Get statement handler.
 
 =back
 
+=head1 SEE ALSO
+
+L<DBIx::Sunny>
+
+L<DBI>
+
 =head1 LICENSE
 
 Copyright (C) Shoichi Kaji.

@@ -30,6 +30,12 @@ and statement handlers for iteration.
 
     Get statement handler.
 
+# SEE ALSO
+
+[DBIx::Sunny](https://metacpan.org/pod/DBIx::Sunny)
+
+[DBI](https://metacpan.org/pod/DBI)
+
 # LICENSE
 
 Copyright (C) Shoichi Kaji.
